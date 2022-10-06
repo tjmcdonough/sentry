@@ -1,0 +1,15 @@
+{
+  "name": "sentry",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "@sentry/browser": "^7.14.2",
+    "@sentry/tracing": "^7.14.2"
+  }
+}
