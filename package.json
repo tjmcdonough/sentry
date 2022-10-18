@@ -1,5 +1,5 @@
 {
-  "name": "sentry",
+  "name": "sentry-element",
   "version": "0.0.1",
   "scripts": {
     "build": "weweb build",

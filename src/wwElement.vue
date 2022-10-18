@@ -1,3 +1,5 @@
+<script>
+
 import * as Sentry from "@sentry/browser";
 import { BrowserTracing } from "@sentry/tracing";
 
@@ -12,3 +14,5 @@ export default {
       console.log('Sentry is initialised');
   }
 }
+
+</script>
