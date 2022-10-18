@@ -11,7 +11,6 @@ export default {
         integrations: [new BrowserTracing()],
         tracesSampleRate: 0.01
       });
-      console.log('Sentry is initialised');
   }
 }
 
